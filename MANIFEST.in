@@ -1,0 +1,7 @@
+include *.py
+include *.txt
+include .coveragerc
+include buildout.cfg
+recursive-include Products *.gif
+recursive-include Products *.pt
+recursive-include Products *.zcml
