@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.0 (unreleased)
-----------------
+2.0.0a1 (2020-06-09)
+--------------------
 
 - Python 3 compatibility
   [mpeeters]
